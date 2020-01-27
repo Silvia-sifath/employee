@@ -44,6 +44,7 @@ public abstract class AbstractEmployee {
 
 
 
+	
 	public abstract double calculateSalary();
 
 }
